@@ -1,0 +1,11 @@
+name = "Oceanic Zen"
+description = "Minimalistic blog theme"
+license = "MIT"
+homepage = "https://github.com/barlog-m/oceanic-zen"
+min_version = "0.9.0"
+
+[extra]
+
+[author]
+name = "Barlog M."
+homepage = "https://barlog.li"

@@ -1,0 +1,11 @@
+base_url = "https://example.com"
+title = "Blog name"
+compile_sass = true
+highlight_code = true
+highlight_theme = "visual-studio-dark"
+build_search_index = false
+
+[extra]
+author = "Barlog M."
+github = "barlog-m"
+twitter = "barlog_m"
