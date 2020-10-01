@@ -6,8 +6,8 @@ Oceanic Zen is a theme for [Zola](https://www.getzola.org/) static site generato
 
 [Oceanic Zen](https://oceanic-zen.netlify.app/) is a minimalistic theme for personal blog.
 
-![Screenshot](screenshot0.png)
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot-index.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
