@@ -1,8 +1,10 @@
 # Oceanic Zen
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e90897e9-f3e3-4906-b647-11a918af3a3b/deploy-status)](https://app.netlify.com/sites/oceanic-zen/deploys)
+
 Oceanic Zen is a theme for [Zola](https://www.getzola.org/) static site generator
 
-Oceanic Zen is a minimalistic theme for personal blog.
+[Oceanic Zen](https://oceanic-zen.netlify.app/) is a minimalistic theme for personal blog.
 
 ![Screenshot](screenshot0.png)
 ![Screenshot](screenshot1.png)
