@@ -1,4 +1,4 @@
-base_url = "https://example.com"
+base_url = "https://oceanic-zen.netlify.app/"
 title = "Blog name"
 compile_sass = true
 highlight_code = true
