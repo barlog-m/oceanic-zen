@@ -18,6 +18,12 @@ $ cd themes
 $ git clone https://github.com/barlog-m/oceanic-zen.git
 ```
 
+Or add as git submodule
+
+```bash
+$ git submodule add https://github.com/barlog-m/oceanic-zen.git themes/oceanic-zen
+```
+
 Enable it in your `config.toml`:
 
 ```toml
