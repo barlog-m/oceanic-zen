@@ -2,7 +2,7 @@ name = "Oceanic Zen"
 description = "Minimalistic blog theme"
 license = "MIT"
 homepage = "https://github.com/barlog-m/oceanic-zen"
-min_version = "0.9.0"
+min_version = "0.12.0"
 demo = "https://oceanic-zen.netlify.app"
 
 [extra]

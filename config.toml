@@ -1,5 +1,6 @@
 base_url = "https://oceanic-zen.netlify.app/"
 title = "Blog name"
+description = "Personal blog"
 compile_sass = true
 highlight_code = true
 highlight_theme = "visual-studio-dark"
