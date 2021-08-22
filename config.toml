@@ -2,9 +2,11 @@ base_url = "https://oceanic-zen.netlify.app/"
 title = "Blog name"
 description = "Personal blog"
 compile_sass = true
+build_search_index = false
+
+[markdown]
 highlight_code = true
 highlight_theme = "visual-studio-dark"
-build_search_index = false
 
 [extra]
 author = "Barlog M."
