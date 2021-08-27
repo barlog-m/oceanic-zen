@@ -26,6 +26,7 @@
                 </div>
                 <div class="header-right">
                     <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                      <ul>
                         {% set index = get_section(path="_index.md") %}
                         {% for s in index.subsections %}
                             {% set subsection = get_section(path=s) %}
@@ -45,10 +46,11 @@
                         {% if config.extra.twitter %}
                         <li class="nav">
                             <a itemprop="url" href="https://twitter.com/{{ config.extra.twitter }}">
-                                <img class="icon" src="{{ config.base_url }}/icons/twitter.svg" alt="Github">
+                                <img class="icon" src="{{ config.base_url }}/icons/twitter.svg" alt="Twitter">
                             </a>
                         </li>
                         {% endif %}
+                      </ul>
                     </nav>
                 </div>
             </header>
