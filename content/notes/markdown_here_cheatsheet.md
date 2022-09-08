@@ -177,7 +177,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-## Code and Syntax Highlighting
+## <a name="code"></a>Code and Syntax Highlighting
 
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
@@ -278,7 +278,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
-## Inline HTML
+## <a name="html"></a>Inline HTML
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well. 
 
@@ -300,7 +300,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-## Horizontal Rule
+## <a name="hr"></a>Horizontal Rule
 
 ```
 Three or more...
@@ -332,7 +332,7 @@ ___
 
 Underscores
 
-## Line Breaks
+## <a name="lines"></a>Line Breaks
 
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend. 
 
@@ -356,7 +356,7 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 (Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)
 
-## YouTube Videos
+## <a name="videos"></a>YouTube Videos
 
 They can't be added directly but you can add an image with a link to the video like this:
 
@@ -372,7 +372,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
 
-## TeX Mathematical Formulae
+## <a name="tex"></a>TeX Mathematical Formulae
 
 A full description of TeX math symbols is beyond the scope of this cheatsheet. Here's a [good reference](https://en.wikibooks.org/wiki/LaTeX/Mathematics), and you can try stuff out on [CodeCogs](https://www.codecogs.com/latex/eqneditor.php). You can also play with formulae in the Markdown Here options page.
 
